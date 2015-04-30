@@ -1,2 +1,4 @@
 # DeepNN
-Deep Neural Network Code Project
+
+
+Storage for Deep Neural Network code created by Mark Harmon in MATLAB.
